@@ -1,0 +1,16 @@
+export const ALGO_OPTIONS = [
+  { id: 'bfs', name: 'Breadth-First Search (BFS)' },
+  { id: 'dfs', name: 'Depth-First Search (DFS)' },
+  { id: 'a*', name: 'A* Search' },
+  { id: 'ids', name: 'Iterative Deepening Search (IDS)' },
+  { id: 'dijkstra', name: "Dijkstra's Algorithm" },
+  { id: 'bellman-ford', name: 'Bellman-Ford' },
+  { id: 'ucs', name: 'Uniform Cost Search (UCS)' },
+  { id: 'bidirectional-bfs', name: 'Bidirectional Breadth-First Search' },
+  { id: 'greedy-best-first', name: 'Greedy Best-First Search' },
+  { id: 'beam-search', name: 'Beam Search' },
+  { id: 'ida*', name: 'Iterative Deepening A* (IDA*)' },
+  { id: 'rbfs', name: 'Recursive Best-First Search (RBFS)' },
+  { id: 'jump-point-search', name: 'Jump Point Search (JPS)' },
+  { id: 'contraction-hierarchies', name: 'Contraction Hierarchies' },
+];
