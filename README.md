@@ -1,3 +1,4 @@
+# Random Bullshits With Claude Code
 # Pathfinder — Graph Traversal Algorithm Visualizer (React)
 
 A production-grade, visually distinctive React + Vite rewrite of the graph traversal visualizer.
